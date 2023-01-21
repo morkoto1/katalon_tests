@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_If there are none, click skip_rc-images_33b6c4_1</name>
+   <tag></tag>
+   <elementGuidId>6210e9e6-beff-4d84-814a-b3257c0967c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8de68c01-3c06-4d86-86c1-61aa5219323b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-imageselect-checkbox</value>
+      <webElementGuid>757db4c5-7431-4a09-aa0e-4297c51cb953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-imageselect-target&quot;)/table[@class=&quot;rc-imageselect-table-44&quot;]/tbody[1]/tr[3]/td[@class=&quot;rc-imageselect-tile rc-imageselect-tileselected&quot;]/div[@class=&quot;rc-image-tile-target&quot;]/div[@class=&quot;rc-imageselect-checkbox&quot;]</value>
+      <webElementGuid>b8b9f214-8b7a-47cd-9374-d7c7e9fd9ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Sign up  Katalon Software Quality Mana_03d398/iframe_html1body1div4div4iframe1_c-fce13wk0t6f5</value>
+      <webElementGuid>d48f5aee-eda1-48ce-afa8-a5a753fd8317</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td[4]/div/div[2]</value>
+      <webElementGuid>a3c747ff-d69b-4076-acd6-5a443e941b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/div/div[2]</value>
+      <webElementGuid>33e72d0d-b792-491e-a1d5-43c045946e9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

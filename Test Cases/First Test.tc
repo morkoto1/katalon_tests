@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test test</description>
+   <name>First Test</name>
+   <tag>basic</tag>
+   <comment></comment>
+   <testCaseGuid>633d4cc5-099e-46b0-8b48-db10a380f551</testCaseGuid>
+</TestCaseEntity>
